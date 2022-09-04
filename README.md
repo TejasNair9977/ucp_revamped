@@ -1,3 +1,3 @@
 # UCP Revamped
-Contributors:-
+Contributors :-
 Tejas Nair,Kartik Nambiar
